@@ -18,9 +18,10 @@
 <a href="https://instagram.com/pavitha wickramasingha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pavitha wickramasingha" height="30" width="40" /></a>
 </p>
 <br><br><br>
-⚙️ &nbsp;GitHub Analytics
+<b>⚙️ &nbsp;GitHub Analytics</b>
+<br><br>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Pavitha1119">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pavitha1119&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
@@ -30,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pavitha1119&theme=dark&hide_border=true"/>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
